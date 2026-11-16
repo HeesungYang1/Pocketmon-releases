@@ -4,6 +4,14 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.6 레드 원작 맵 구조
+
+[v0.9.6 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.6)
+
+현재 초반권과 연결 실내27개 맵을 레드의 크기·통행 칸·문/계단·길 연결에 맞췄습니다. 1번도로 일방향 턱과 상록숲 미로형 길, 남북 출입 건물과2번도로 북쪽을 복원했습니다. 지도/미니맵도 같은 구조를 표시합니다. 이전 맵의 저장 위치는 한 번 안전한 입구로 옮기고 파티·아이템·진행은 유지합니다. 한국어 설명서0.9.6을 내장합니다.
+
+원작 기반27개+기존 조사4개=31구역/19종입니다. 최종 환경 아트·후속 관동 지역·원작 모든NPC/사건·물리ARM64 검증은 미완료입니다. 설치와 실제 검증 범위는 릴리스 본문을 확인하세요.
+
 ## 0.9.5 새 도입부와 캐릭터 후보
 
 [v0.9.5 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.5)
