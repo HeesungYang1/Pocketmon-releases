@@ -4,6 +4,14 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.7 넓어진 야외와 연속 보행
+
+[v0.9.7 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.7)
+
+야외7개 지역의 간격을 넓히고 자연 지면·길가 풀밭·건물/원경을 보완했습니다. 직접 연결된 야외5쌍/10방향은 다음 지형을 미리 보며 걸어서 통과합니다. 실내 문 이동과 배달/배지 잠금은 유지합니다. 기존 진행 보존과 한국어 설명서0.9.7을 제공합니다.
+
+완전한 비동기 스트리밍/무지연·전체 관동·최종 환경 아트·실물ARM64·사용자 체감 수용은 미완료입니다. 실제 검증 범위는 릴리스 본문을 확인하세요.
+
 ## 0.9.6 레드 원작 맵 구조
 
 [v0.9.6 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.6)
