@@ -4,6 +4,14 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.8 건물 내부와 이용 지점
+
+[v0.9.8 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.8)
+
+현재 들어갈 수 있는20개 실내에 건물 용도별 가구·벽·창·천장·조명과 실내 카메라를 적용했습니다.25개 이용 지점에서 집 회복/저장, 동료/보관함, 회색센터 회복, 회색상점 구입, 학교/박물관/길 안내를 이용합니다. 기존 출입/진행/저장은 유지하며 한국어 설명서0.9.8을 내장했습니다.
+
+전체 관동·모든 원작 NPC/사건·최종 사용자 시각 수용·실물 ARM64 검증은 미완료입니다. 기존 사전 배포 채널이며 실제 검증 범위는 릴리스 본문을 확인하세요.
+
 ## 0.9.7 넓어진 야외와 연속 보행
 
 [v0.9.7 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.7)
