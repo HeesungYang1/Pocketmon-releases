@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.10 태초마을과 첫 파트너
+
+태초마을에서 주택과 연구소의 지붕, 현관에서 이어지는 흙길, 연못과 나무를 손봤습니다. 연구소에서는 전용 모델을 적용한 윤 박사의 얼굴을 보며 대화합니다. 트레이너의 배낭과 파이리의 실루엣·꼬리 불꽃도 다듬었습니다. 실물 ARM64 성능은 미확인입니다. [Android APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.10)
+
 ## 0.9.9 문과 계단, 필드 대화
 
 건물 문과 계단으로 걸어 들어가면 바로 이동합니다. 사람과 표지판을 조사하면 필드 아래에 대화창이 뜨고, 메뉴는 화면 오른쪽에 열립니다. 한국어 설명서는 메뉴 → 설정 → 사용설명서에서 확인하세요. [0.9.9 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.9)
