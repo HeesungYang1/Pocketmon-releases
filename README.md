@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.9 문과 계단, 필드 대화
+
+건물 문과 계단으로 걸어 들어가면 바로 이동합니다. 사람과 표지판을 조사하면 필드 아래에 대화창이 뜨고, 메뉴는 화면 오른쪽에 열립니다. 한국어 설명서는 메뉴 → 설정 → 사용설명서에서 확인하세요. [0.9.9 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.9)
+
 ## 0.9.8 건물 내부와 이용 지점
 
 [v0.9.8 APK·체크섬·검증 범위](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.8)
