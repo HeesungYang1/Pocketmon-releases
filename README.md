@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.11 첫 파트너와 탐험 지도
+
+연구소에서는 이상해씨·파이리·꼬부기의 새 모습을 나란히 보고 파트너를 고릅니다. 박사·라이벌·체육관 인물은 만난 시점에 맞춰 말을 건넵니다. 오른쪽 위 미니맵을 누르면 현재 구역의 길과 출입구, 목적지가 보입니다. Android 9 이상에서 기존 앱 위에 설치할 수 있습니다. [0.9.11 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.11)
+
 ## 0.9.10 태초마을과 첫 파트너
 
 태초마을에서 주택과 연구소의 지붕, 현관에서 이어지는 흙길, 연못과 나무를 손봤습니다. 연구소에서는 전용 모델을 적용한 윤 박사의 얼굴을 보며 대화합니다. 트레이너의 배낭과 파이리의 실루엣·꼬리 불꽃도 다듬었습니다. 실물 ARM64 성능은 미확인입니다. [Android APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.10)
