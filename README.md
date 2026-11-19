@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.13 마을 사람들과 파트너
+
+트레이너와 윤 박사를 포함한 NPC 14명, 현재 포켓몬 19종에 부드러운 애니메이션풍 3D를 적용했습니다. 피카츄는 쉴 때 눈을 감고 귀를 내려요. 기존 앱 위에 설치하면 저장한 모험을 이어갈 수 있습니다. [0.9.13 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.13)
+
 ## 0.9.11 첫 파트너와 탐험 지도
 
 연구소에서는 이상해씨·파이리·꼬부기의 새 모습을 나란히 보고 파트너를 고릅니다. 박사·라이벌·체육관 인물은 만난 시점에 맞춰 말을 건넵니다. 오른쪽 위 미니맵을 누르면 현재 구역의 길과 출입구, 목적지가 보입니다. Android 9 이상에서 기존 앱 위에 설치할 수 있습니다. [0.9.11 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.11)
