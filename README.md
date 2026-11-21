@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.16 관동 일행의 전투 등장
+
+트레이너가 뒤로 쓴 빨간 모자와 파란 조끼를 입고 볼을 높이 듭니다. 연구소에서 이상해씨·파이리·꼬부기의 새 표정과 자세를 큰 그림으로 비교하고 첫 파트너를 고를 수 있습니다. [0.9.16 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.16)
+
 ## 0.9.15 파트너의 눈빛과 표정
 
 피카츄가 고개를 들고 앞발을 내미는 반응을 추가했습니다. 트레이너와 윤 박사의 얼굴·머리·옷, 주민과 첫 파트너의 표정도 바뀌었습니다. 기존 앱 위에 설치하면 저장한 모험을 이어갈 수 있습니다. [0.9.15 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.15)
