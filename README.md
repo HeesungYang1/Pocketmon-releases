@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.18 관동 포켓몬 151종의 실루엣
+
+푸린의 둥근 몸과 짧은 발, 강챙이의 어깨와 주먹, 딱구리의 등껍질처럼 종마다 체형을 다듬었습니다. 필드 메뉴의 도감에서 151종을 검색하고 손으로 돌려 볼 수 있습니다. [0.9.18 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.18)
+
 ## 0.9.17 모험 저장소와 관동 모습 도감
 
 필드 메뉴의 모험 저장소에서 기존 모험을 보관하고 새 모험을 시작할 수 있습니다. 도감에서는 포획 전에도 관동 151종을 이름·번호로 찾고 돌려 볼 수 있습니다. 기존 모델 15종을 손보고 132종을 새로 제작했습니다. [0.9.17 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.17)
