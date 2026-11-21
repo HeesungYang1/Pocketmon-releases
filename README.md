@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.14 초대 관동편 캐릭터
+
+트레이너의 모자 아래로 뻗은 머리와 볼선, 윤 박사의 은발과 흰 가운, 라이츄의 말린 귀와 피카츄의 통통한 체형을 3D 모델에 반영했습니다. 기존 앱 위에 덮어설치하면 모험을 이어갈 수 있습니다. [0.9.14 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.14)
+
 ## 0.9.13 마을 사람들과 파트너
 
 트레이너와 윤 박사를 포함한 NPC 14명, 현재 포켓몬 19종에 부드러운 애니메이션풍 3D를 적용했습니다. 피카츄는 쉴 때 눈을 감고 귀를 내려요. 기존 앱 위에 설치하면 저장한 모험을 이어갈 수 있습니다. [0.9.13 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.13)
