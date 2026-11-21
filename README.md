@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.19 이브이와 뮤츠, 모습 도감 얼굴 확대
+
+이브이의 목털과 꼬리, 뮤츠의 체형과 손동작을 다시 만들고 포켓몬 71종의 몸과 팔다리가 이어지도록 다듬었습니다. 모습 도감에서 151종의 얼굴을 확대하고 돌려 볼 수 있습니다. [0.9.19 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.19)
+
 ## 0.9.18 관동 포켓몬 151종의 실루엣
 
 푸린의 둥근 몸과 짧은 발, 강챙이의 어깨와 주먹, 딱구리의 등껍질처럼 종마다 체형을 다듬었습니다. 필드 메뉴의 도감에서 151종을 검색하고 손으로 돌려 볼 수 있습니다. [0.9.18 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.18)
