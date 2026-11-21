@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.17 모험 저장소와 관동 모습 도감
+
+필드 메뉴의 모험 저장소에서 기존 모험을 보관하고 새 모험을 시작할 수 있습니다. 도감에서는 포획 전에도 관동 151종을 이름·번호로 찾고 돌려 볼 수 있습니다. 기존 모델 15종을 손보고 132종을 새로 제작했습니다. [0.9.17 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.17)
+
 ## 0.9.16 관동 일행의 전투 등장
 
 트레이너가 뒤로 쓴 빨간 모자와 파란 조끼를 입고 볼을 높이 듭니다. 연구소에서 이상해씨·파이리·꼬부기의 새 표정과 자세를 큰 그림으로 비교하고 첫 파트너를 고를 수 있습니다. [0.9.16 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.16)
