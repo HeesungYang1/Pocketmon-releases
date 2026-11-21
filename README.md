@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.15 파트너의 눈빛과 표정
+
+피카츄가 고개를 들고 앞발을 내미는 반응을 추가했습니다. 트레이너와 윤 박사의 얼굴·머리·옷, 주민과 첫 파트너의 표정도 바뀌었습니다. 기존 앱 위에 설치하면 저장한 모험을 이어갈 수 있습니다. [0.9.15 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.15)
+
 ## 0.9.14 초대 관동편 캐릭터
 
 트레이너의 모자 아래로 뻗은 머리와 볼선, 윤 박사의 은발과 흰 가운, 라이츄의 말린 귀와 피카츄의 통통한 체형을 3D 모델에 반영했습니다. 기존 앱 위에 덮어설치하면 모험을 이어갈 수 있습니다. [0.9.14 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.14)
