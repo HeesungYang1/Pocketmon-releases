@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.20 관동 149종의 새로운 자세
+
+이브이와 뮤츠는 기존 모습을 유지하고, 나머지 149종의 자세와 실루엣을 다시 잡았습니다. 모습 도감에서 전신을 돌려 보거나 등장 동작을 볼 수 있습니다. [0.9.20 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.20)
+
 ## 0.9.19 이브이와 뮤츠, 모습 도감 얼굴 확대
 
 이브이의 목털과 꼬리, 뮤츠의 체형과 손동작을 다시 만들고 포켓몬 71종의 몸과 팔다리가 이어지도록 다듬었습니다. 모습 도감에서 151종의 얼굴을 확대하고 돌려 볼 수 있습니다. [0.9.19 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.19)
