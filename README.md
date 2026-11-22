@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.21 모습 도감의 식스테일·피죤·스라크
+
+식스테일의 여섯 꼬리와 가는 주둥이, 피죤의 반쯤 펼친 날개, 스라크의 낫을 모습 도감에서 돌려 볼 수 있습니다. [0.9.21 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.21)
+
 ## 0.9.20 관동 149종의 새로운 자세
 
 이브이와 뮤츠는 기존 모습을 유지하고, 나머지 149종의 자세와 실루엣을 다시 잡았습니다. 모습 도감에서 전신을 돌려 보거나 등장 동작을 볼 수 있습니다. [0.9.20 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.20)
