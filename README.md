@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.31 고지·니드런♀와 성장 연구원
+
+도감에서 고지와 니드런♀의 새 모습을 보고, 연구 숲에서 성장 연구원에게 말을 걸어 대련할 수 있습니다. [0.9.31 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.31)
+
 ## 0.9.30 피카츄·라이츄·모래두지와 두 트레이너
 
 도감의 피카츄·라이츄·모래두지, 견습 민우와 조사대장 하람을 개별 조형으로 교체했습니다. [0.9.30 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.30)
