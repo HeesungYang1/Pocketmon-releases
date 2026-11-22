@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.30 피카츄·라이츄·모래두지와 두 트레이너
+
+도감의 피카츄·라이츄·모래두지, 견습 민우와 조사대장 하람을 개별 조형으로 교체했습니다. [0.9.30 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.30)
+
 ## 0.9.29 트레이너·다온·소라와 도감의 네 포켓몬
 
 플레이어·상인 다온·숲지기 소라와 도감의 깨비참·깨비드릴조·아보·아보크를 개별 조형으로 교체했습니다. [0.9.29 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.29)
