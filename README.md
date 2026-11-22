@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.24 캐터피와 뿔충이 개별 조형
+
+캐터피와 뿔충이의 얼굴·몸마디·이동 동작을 각각 새로 조형했습니다. [0.9.24 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.24)
+
 ## 0.9.23 세 스타터의 새 모델
 
 꼬부기·파이리·이상해씨의 얼굴과 대기 자세를 새로 만들었습니다. [0.9.23 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.23)
