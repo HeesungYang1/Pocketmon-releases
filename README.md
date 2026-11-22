@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.26 독침붕·구구
+
+독침붕을 모습 도감에, 구구를 필드·전투·모습 도감에 적용했습니다. [0.9.26 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.26)
+
 ## 0.9.25 단데기·버터플·딱충이
 
 버터플의 날개와 얼굴, 단데기와 딱충이의 껍질·자세를 새로 조형했습니다. [0.9.25 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.25)
