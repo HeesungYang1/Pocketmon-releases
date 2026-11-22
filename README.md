@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.28 꼬렛·레트라·윤 박사
+
+꼬렛과 레트라를 모습 도감에, 윤 박사를 태초마을 연구소에 적용했습니다. 꼬렛은 필드와 전투에서도 볼 수 있습니다. [0.9.28 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.28)
+
 ## 0.9.27 피죤·피죤투
 
 상승하는 피죤과 두 발을 접고 활공하는 피죤투를 모습 도감에 적용했습니다. [0.9.27 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.27)
