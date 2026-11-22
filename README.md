@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.23 세 스타터의 새 모델
+
+꼬부기·파이리·이상해씨의 얼굴과 대기 자세를 새로 만들었습니다. [0.9.23 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.23)
+
 ## 0.9.22 관동 146종 조형 수정
 
 모습 도감에서 새 미뇽과 고라파덕 등 146종의 얼굴과 몸선을 살펴볼 수 있습니다. [0.9.22 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.22)
