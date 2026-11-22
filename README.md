@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.25 단데기·버터플·딱충이
+
+버터플의 날개와 얼굴, 단데기와 딱충이의 껍질·자세를 새로 조형했습니다. [0.9.25 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.25)
+
 ## 0.9.24 캐터피와 뿔충이 개별 조형
 
 캐터피와 뿔충이의 얼굴·몸마디·이동 동작을 각각 새로 조형했습니다. [0.9.24 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.24)
