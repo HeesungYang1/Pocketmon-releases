@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.27 피죤·피죤투
+
+상승하는 피죤과 두 발을 접고 활공하는 피죤투를 모습 도감에 적용했습니다. [0.9.27 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.27)
+
 ## 0.9.26 독침붕·구구
 
 독침붕을 모습 도감에, 구구를 필드·전투·모습 도감에 적용했습니다. [0.9.26 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.26)
