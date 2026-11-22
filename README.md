@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.29 트레이너·다온·소라와 도감의 네 포켓몬
+
+플레이어·상인 다온·숲지기 소라와 도감의 깨비참·깨비드릴조·아보·아보크를 개별 조형으로 교체했습니다. [0.9.29 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.29)
+
 ## 0.9.28 꼬렛·레트라·윤 박사
 
 꼬렛과 레트라를 모습 도감에, 윤 박사를 태초마을 연구소에 적용했습니다. 꼬렛은 필드와 전투에서도 볼 수 있습니다. [0.9.28 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.28)
