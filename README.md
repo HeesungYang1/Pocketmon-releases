@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.22 관동 146종 조형 수정
+
+모습 도감에서 새 미뇽과 고라파덕 등 146종의 얼굴과 몸선을 살펴볼 수 있습니다. [0.9.22 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.22)
+
 ## 0.9.21 모습 도감의 식스테일·피죤·스라크
 
 식스테일의 여섯 꼬리와 가는 주둥이, 피죤의 반쯤 펼친 날개, 스라크의 낫을 모습 도감에서 돌려 볼 수 있습니다. [0.9.21 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.21)
