@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.36 픽시·식스테일과 두 회복 담당
+
+도감에서 픽시와 식스테일을 돌려 보고, 집과 상록시티 센터에서 새 모습의 가족과 간호사에게 동료 회복을 맡겨 보세요. [0.9.36 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.36)
+
 ## 0.9.35 삐삐와 태초 연구소의 라이벌
 
 모습 도감에서 삐삐의 새 모습을 확인하고, 태초 연구소에서 라이벌에게 도전할 수 있습니다. [0.9.35 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.35)
