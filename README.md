@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.51 트레이너의 모험 수첩
+
+지도 카드와 도감 바로가기, 포켓몬 151종의 초상, 필드·전투 버튼을 담았습니다. [0.9.51 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.51)
+
 ## 0.9.50 길과 단차
 
 야외 통행 경계와 실제 높이가 다른 한 방향 잔디 턱을 적용했습니다. [0.9.50 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.50)
