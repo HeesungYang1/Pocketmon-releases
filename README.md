@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.48 트레이너와 주민들
+
+트레이너와 NPC 14명의 의상, 표정과 몸짓을 다듬고 주민 대사를 갱신했습니다. [0.9.48 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.48)
+
 ## 0.9.47 포켓몬과 사람의 크기
 
 관동 151종에 공식 도감 치수를 적용하고 플레이어와 NPC의 키를 조정했습니다. 작은 종은 기본 화면에서 조금 크게 보이며, 도감 실측 모드로도 볼 수 있습니다. [0.9.47 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.47)
