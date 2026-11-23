@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.38 푸크린부터 파라스까지
+
+도감 040~046에서 일곱 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.38 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.38)
+
 ## 0.9.37 나인테일·푸린과 상록시티 길잡이
 
 나인테일의 아홉 꼬리와 노래하는 푸린을 도감에서 돌려 보세요. 상록시티 길잡이가 꾸러미 배달 전후에 갈 길을 가리킵니다. [0.9.37 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.37)
