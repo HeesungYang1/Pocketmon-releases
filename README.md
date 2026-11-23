@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.52 전투 기술과 동작
+
+준비 동작부터 피격까지 전투 기술 연출을 바꾸고, 레드 기술 165개와 조사 모험 30개를 볼 수 있는 기술 도감을 추가했습니다. [0.9.52 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.52)
+
 ## 0.9.51 트레이너의 모험 수첩
 
 지도 카드와 도감 바로가기, 포켓몬 151종의 초상, 필드·전투 버튼을 담았습니다. [0.9.51 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.51)
