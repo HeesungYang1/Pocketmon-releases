@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.35 삐삐와 태초 연구소의 라이벌
+
+모습 도감에서 삐삐의 새 모습을 확인하고, 태초 연구소에서 라이벌에게 도전할 수 있습니다. [0.9.35 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.35)
+
 ## 0.9.34 니드킹과 3번도로 탐험가 은솔
 
 모습 도감에서 니드킹의 새 배갑과 꼬리를 확인하고, 3번도로에서 탐험가 은솔에게 도전할 수 있습니다. [0.9.34 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.34)
