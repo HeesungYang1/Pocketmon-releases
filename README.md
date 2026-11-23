@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.37 나인테일·푸린과 상록시티 길잡이
+
+나인테일의 아홉 꼬리와 노래하는 푸린을 도감에서 돌려 보세요. 상록시티 길잡이가 꾸러미 배달 전후에 갈 길을 가리킵니다. [0.9.37 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.37)
+
 ## 0.9.36 픽시·식스테일과 두 회복 담당
 
 도감에서 픽시와 식스테일을 돌려 보고, 집과 상록시티 센터에서 새 모습의 가족과 간호사에게 동료 회복을 맡겨 보세요. [0.9.36 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.36)
