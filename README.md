@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.33 니드런♂·니드리노와 회색체육관
+
+모습 도감에서 니드런♂·니드리노의 새 모델을 확인하고, 회색체육관에서 도윤과 웅에게 도전할 수 있습니다. [0.9.33 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.33)
+
 ## 0.9.32 니드리나·니드퀸과 길잡이 유나
 
 도감에서 니드리나와 니드퀸의 새 모습을 보고 회색시티에서 길잡이 유나에게 말을 걸어 여행 도구를 살 수 있습니다. [0.9.32 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.32)
