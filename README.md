@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.46 세 파트너와 진화형
+
+도감 첫 페이지에서 세 파트너와 여섯 진화형의 모습을 확인하세요. 포켓몬 151종과 인물 15명의 개별 게임 모델을 적용했습니다. [0.9.46 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.46)
+
 ## 0.9.45 폴리곤부터 뮤까지
 
 도감 137~151에서 열다섯 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.45 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.45)
