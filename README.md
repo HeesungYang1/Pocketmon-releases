@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.32 니드리나·니드퀸과 길잡이 유나
+
+도감에서 니드리나와 니드퀸의 새 모습을 보고 회색시티에서 길잡이 유나에게 말을 걸어 여행 도구를 살 수 있습니다. [0.9.32 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.32)
+
 ## 0.9.31 고지·니드런♀와 성장 연구원
 
 도감에서 고지와 니드런♀의 새 모습을 보고, 연구 숲에서 성장 연구원에게 말을 걸어 대련할 수 있습니다. [0.9.31 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.31)
