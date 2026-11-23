@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.44 마임맨부터 부스터까지
+
+도감 122~136에서 열다섯 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.44 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.44)
+
 ## 0.9.43 홍수몬부터 아쿠스타까지
 
 도감 107~121에서 열다섯 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.43 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.43)
