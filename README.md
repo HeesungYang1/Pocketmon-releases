@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.49 마을에서 숲으로
+
+야외 7개 지역의 흙길, 숲의 식생, 도로 가장자리와 건물 입구를 다듬었습니다. [0.9.49 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.49)
+
 ## 0.9.48 트레이너와 주민들
 
 트레이너와 NPC 14명의 의상, 표정과 몸짓을 다듬고 주민 대사를 갱신했습니다. [0.9.48 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.48)
