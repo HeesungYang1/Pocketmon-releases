@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.50 길과 단차
+
+야외 통행 경계와 실제 높이가 다른 한 방향 잔디 턱을 적용했습니다. [0.9.50 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.50)
+
 ## 0.9.49 마을에서 숲으로
 
 야외 7개 지역의 흙길, 숲의 식생, 도로 가장자리와 건물 입구를 다듬었습니다. [0.9.49 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.49)
