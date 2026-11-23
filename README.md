@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.41 포니타부터 파르셀까지
+
+도감 077~091에서 열다섯 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.41 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.41)
+
 ## 0.9.40 강챙이부터 딱구리까지
 
 도감 062~076에서 열다섯 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.40 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.40)
