@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.43 홍수몬부터 아쿠스타까지
+
+도감 107~121에서 열다섯 포켓몬의 새 얼굴과 자세를 돌려 보세요. [0.9.43 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.43)
+
 ## 0.9.42 고오스부터 시라소몬까지
 
 도감 092~106에서 열다섯 포켓몬을 돌려 보고 필드와 전투에서 롱스톤을 만나 보세요. [0.9.42 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.42)
