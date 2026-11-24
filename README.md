@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.55 트레이너 달리기
+
+트레이너가 땅을 디디고 발끝으로 미는 동작과 뒤꿈치 회수, 팔 흔들기를 다듬었습니다. [0.9.55 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.55)
+
 ## 0.9.54 태초마을과 첫 굽이
 
 태초마을 북쪽에 생울타리를 두르고, 1번도로의 흰 꽃나무를 돌아 오르는 흙길과 첫 턱 아래 착지하는 풀밭을 다듬었습니다. [0.9.54 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.54)
