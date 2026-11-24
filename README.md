@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.56 첫 야생전 복귀와 전투 규칙
+
+야생전이 끝난 직후 필드 시야를 복구하고, 레드 기술 흡혈과 거품광선의 전투 효과를 연결했습니다. [0.9.56 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.56)
+
 ## 0.9.55 트레이너 달리기
 
 트레이너가 땅을 디디고 발끝으로 미는 동작과 뒤꿈치 회수, 팔 흔들기를 다듬었습니다. [0.9.55 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.55)
