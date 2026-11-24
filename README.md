@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.58 첫 모험 길 안내와 전투
+
+상록 상점의 꾸러미 안내, 연구소 대결, 야생 조우와 도감의 실제 진화 조건을 개선했습니다. [0.9.58 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.58)
+
 ## 0.9.57 상록시티 카메라와 진화 도감
 
 상록시티 경계에서 카메라가 튀던 문제를 고쳤습니다. 모습 도감에서 관동 151종의 레드 진화 조건을 확인할 수 있습니다. [0.9.57 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.57)
