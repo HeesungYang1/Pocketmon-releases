@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.59 야외 지형과 언덕 전투
+
+야외 비탈 모서리를 연결하고, 언덕에서 포켓몬이 서고 돌진하는 높이를 실제 지면에 맞췄습니다. [0.9.59 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.59)
+
 ## 0.9.58 첫 모험 길 안내와 전투
 
 상록 상점의 꾸러미 안내, 연구소 대결, 야생 조우와 도감의 실제 진화 조건을 개선했습니다. [0.9.58 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.58)
