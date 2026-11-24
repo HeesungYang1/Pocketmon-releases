@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.60 탐험 터치 조작
+
+왼쪽 아래를 눌러 이동 스틱을 띄우고 오른쪽 운동화 아이콘으로 달리기를 전환합니다. [0.9.60 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.60)
+
 ## 0.9.59 야외 지형과 언덕 전투
 
 야외 비탈 모서리를 연결하고, 언덕에서 포켓몬이 서고 돌진하는 높이를 실제 지면에 맞췄습니다. [0.9.59 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.59)
