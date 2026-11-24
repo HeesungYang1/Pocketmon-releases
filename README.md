@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.54 태초마을과 첫 굽이
+
+태초마을 북쪽에 생울타리를 두르고, 1번도로의 흰 꽃나무를 돌아 오르는 흙길과 첫 턱 아래 착지하는 풀밭을 다듬었습니다. [0.9.54 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.54)
+
 ## 0.9.53 탐험과 전투 배경음악
 
 마을·도로·숲·동굴에 탐험곡을, 야생전과 트레이너전에 별도의 전투곡을 넣었습니다. 수첩의 소리 설정에서 배경음악 음량을 조절할 수 있습니다. [0.9.53 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.53)
