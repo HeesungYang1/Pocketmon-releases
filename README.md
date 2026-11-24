@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.57 상록시티 카메라와 진화 도감
+
+상록시티 경계에서 카메라가 튀던 문제를 고쳤습니다. 모습 도감에서 관동 151종의 레드 진화 조건을 확인할 수 있습니다. [0.9.57 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.57)
+
 ## 0.9.56 첫 야생전 복귀와 전투 규칙
 
 야생전이 끝난 직후 필드 시야를 복구하고, 레드 기술 흡혈과 거품광선의 전투 효과를 연결했습니다. [0.9.56 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.56)
