@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.67 관동리그와 151종 수집
+
+관동 여덟 배지를 모아 리그에 도전하고, 명예의 전당을 기록한 뒤 151종을 수집할 수 있습니다. [0.9.67 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.67)
+
 ## 0.9.66 무지개시티와 포켓몬피리
 
 무지개체육관과 아지트에서 배지와 실프스코프를 얻은 뒤 보라타운에서 포켓몬피리를 받을 수 있습니다. 획득 경로는 55종입니다. [0.9.66 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.66)
