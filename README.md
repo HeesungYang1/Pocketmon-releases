@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.68 탐험 화면과 모험 수첩
+
+오른쪽 위의 책으로 모험 수첩을 열고, 금색 운동화로 달리기 상태를 확인하세요. 전투 중에는 양쪽 체력과 선택할 명령을 한눈에 볼 수 있습니다. [0.9.68 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.68)
+
 ## 0.9.67 관동리그와 151종 수집
 
 관동 여덟 배지를 모아 리그에 도전하고, 명예의 전당을 기록한 뒤 151종을 수집할 수 있습니다. [0.9.67 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.67)
