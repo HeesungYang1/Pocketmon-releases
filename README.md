@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.63 블루배지와 승선권
+
+블루체육관에서 이슬에게 도전하고 24·25번도로를 따라 이수재의 전송실을 방문할 수 있습니다. 뚜벅쵸와 그 진화형을 포함해 25종을 획득할 수 있습니다. [0.9.63 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.63)
+
 ## 0.9.62 달맞이산 야생전과 도감
 
 달맞이산에서 주뱃·꼬마돌·파라스·삐삐를 만나고 모험 수첩에서 획득한 종을 확인할 수 있습니다. [0.9.62 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.62)
