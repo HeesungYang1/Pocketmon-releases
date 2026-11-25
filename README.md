@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.62 달맞이산 야생전과 도감
+
+달맞이산에서 주뱃·꼬마돌·파라스·삐삐를 만나고 모험 수첩에서 획득한 종을 확인할 수 있습니다. [0.9.62 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.62)
+
 ## 0.9.61 달맞이산과 블루시티
 
 첫 배지 이후 달맞이산을 탐험해 화석을 고르고 동쪽 4번도로를 통해 블루시티로 갈 수 있습니다. [0.9.61 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.61)
