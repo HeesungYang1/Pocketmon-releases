@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.64 상트안느호와 오렌지배지
+
+승선권으로 상트안느호에 올라 선장에게 풀베기를 배우고 마티스의 체육관에 도전하세요. 디그다굴을 통해 2번도로로 돌아갈 수 있으며 34종의 획득 경로가 열렸습니다. [0.9.64 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.64)
+
 ## 0.9.63 블루배지와 승선권
 
 블루체육관에서 이슬에게 도전하고 24·25번도로를 따라 이수재의 전송실을 방문할 수 있습니다. 뚜벅쵸와 그 진화형을 포함해 25종을 획득할 수 있습니다. [0.9.63 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.63)
