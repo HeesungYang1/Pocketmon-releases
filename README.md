@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.66 무지개시티와 포켓몬피리
+
+무지개체육관과 아지트에서 배지와 실프스코프를 얻은 뒤 보라타운에서 포켓몬피리를 받을 수 있습니다. 획득 경로는 55종입니다. [0.9.66 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.66)
+
 ## 0.9.65 돌산터널과 보라타운
 
 블루시티 동쪽 9·10번도로에서 돌산터널의 사다리를 따라 보라타운과 포켓몬타워에 도착할 수 있습니다. 2번도로에서 플래시를 얻을 수 있고 획득 경로는 41종입니다. [0.9.65 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.65)
