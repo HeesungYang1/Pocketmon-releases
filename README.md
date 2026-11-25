@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.65 돌산터널과 보라타운
+
+블루시티 동쪽 9·10번도로에서 돌산터널의 사다리를 따라 보라타운과 포켓몬타워에 도착할 수 있습니다. 2번도로에서 플래시를 얻을 수 있고 획득 경로는 41종입니다. [0.9.65 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.65)
+
 ## 0.9.64 상트안느호와 오렌지배지
 
 승선권으로 상트안느호에 올라 선장에게 풀베기를 배우고 마티스의 체육관에 도전하세요. 디그다굴을 통해 2번도로로 돌아갈 수 있으며 34종의 획득 경로가 열렸습니다. [0.9.64 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.64)
