@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.70 전투 음악과 모험 효과음
+
+체육관과 리그의 전투곡, 승리·패배·포획·치료를 알리는 짧은 곡과 효과음을 추가했습니다. [0.9.70 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.70)
+
 ## 0.9.69 관동 지형과 물길 수정
 
 도로 경계의 지면 틈, 바다 위의 격자 둑, 길을 덮던 지붕과 동굴의 물길 표시를 수정했습니다. [0.9.69 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.69)
