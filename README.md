@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.69 관동 지형과 물길 수정
+
+도로 경계의 지면 틈, 바다 위의 격자 둑, 길을 덮던 지붕과 동굴의 물길 표시를 수정했습니다. [0.9.69 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.69)
+
 ## 0.9.68 탐험 화면과 모험 수첩
 
 오른쪽 위의 책으로 모험 수첩을 열고, 금색 운동화로 달리기 상태를 확인하세요. 전투 중에는 양쪽 체력과 선택할 명령을 한눈에 볼 수 있습니다. [0.9.68 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.68)
