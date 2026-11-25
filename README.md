@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.61 달맞이산과 블루시티
+
+첫 배지 이후 달맞이산을 탐험해 화석을 고르고 동쪽 4번도로를 통해 블루시티로 갈 수 있습니다. [0.9.61 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.61)
+
 ## 0.9.60 탐험 터치 조작
 
 왼쪽 아래를 눌러 이동 스틱을 띄우고 오른쪽 운동화 아이콘으로 달리기를 전환합니다. [0.9.60 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.60)
