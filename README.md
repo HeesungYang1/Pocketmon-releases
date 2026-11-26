@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.73 실내와 관동 풍경
+
+겹치던 출입문, 벽에 가려진 인형, 가구가 시야를 막는 문제를 고쳤습니다. 블루시티 북쪽 다리의 나무판과 난간, 갈색항의 상트앙느호와 무지개시티 옥상을 다듬었습니다. [0.9.73 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.73)
+
 ## 0.9.72 관동 실내와 필드 비전기술
 
 키우미집·이름 감정사의 집·홍련 연구소·통신클럽 등 실내 20곳을 추가했습니다. 해당 체육관 배지를 얻으면 파티에서 기술을 배운 동료를 골라 다섯 비전기술을 사용할 수 있습니다. 같은 기기의 두 모험에서 교환과 친선 대전도 할 수 있습니다. [0.9.72 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.72)
