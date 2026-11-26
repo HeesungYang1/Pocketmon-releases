@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.71 레드의 야생 조우와 전투
+
+풀숲·동굴·수면을 걸으면 레드판의 지역별 출현표로 야생전을 시작합니다. 일반 트레이너의 시야와 편성, 사파리, 낚싯대, 기술머신과 비전머신을 적용했습니다. 지도에서 ‘도감 보완’을 켜면 통신 없이 151종을 수집할 수 있습니다. [0.9.71 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.71)
+
 ## 0.9.70 전투 음악과 모험 효과음
 
 체육관과 리그의 전투곡, 승리·패배·포획·치료를 알리는 짧은 곡과 효과음을 추가했습니다. [0.9.70 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.70)
