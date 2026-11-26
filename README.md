@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.72 관동 실내와 필드 비전기술
+
+키우미집·이름 감정사의 집·홍련 연구소·통신클럽 등 실내 20곳을 추가했습니다. 해당 체육관 배지를 얻으면 파티에서 기술을 배운 동료를 골라 다섯 비전기술을 사용할 수 있습니다. 같은 기기의 두 모험에서 교환과 친선 대전도 할 수 있습니다. [0.9.72 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.72)
+
 ## 0.9.71 레드의 야생 조우와 전투
 
 풀숲·동굴·수면을 걸으면 레드판의 지역별 출현표로 야생전을 시작합니다. 일반 트레이너의 시야와 편성, 사파리, 낚싯대, 기술머신과 비전머신을 적용했습니다. 지도에서 ‘도감 보완’을 켜면 통신 없이 151종을 수집할 수 있습니다. [0.9.71 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.71)
