@@ -4,6 +4,10 @@
 
 [APK와 SHA-256 다운로드](https://github.com/HeesungYang1/Pocketmon-releases/releases)
 
+## 0.9.74 트레이너 머리와 모자
+
+등 뒤로 시점을 돌렸을 때 머리카락 사이로 두피가 드러나던 부분을 고쳤습니다. 모자챙과 몸통 사이로 배경이 보이던 틈도 닫았습니다. 기존 앱 위에 설치해 모험을 이어갈 수 있습니다. [0.9.74 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.74)
+
 ## 0.9.73 실내와 관동 풍경
 
 겹치던 출입문, 벽에 가려진 인형, 가구가 시야를 막는 문제를 고쳤습니다. 블루시티 북쪽 다리의 나무판과 난간, 갈색항의 상트앙느호와 무지개시티 옥상을 다듬었습니다. [0.9.73 APK와 SHA-256](https://github.com/HeesungYang1/Pocketmon-releases/releases/tag/v0.9.73)
